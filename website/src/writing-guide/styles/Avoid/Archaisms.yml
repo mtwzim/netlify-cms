@@ -1,5 +1,5 @@
 extends: existence
-message: "'%s' is archaic."
+message: "'%s' is archaic"
 ignorecase: true
 level: error
 tokens:
